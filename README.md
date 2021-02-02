@@ -3,7 +3,7 @@
 ***
 
  ## Executando a aplicação
-Para rodar a aplicação em sua máquina, será necessário intalar as seguintes dependências:
+Para rodar a aplicação em sua máquina, será necessário instalar as seguintes dependências:
 * [Python 3.8](https://www.python.org/downloads/release/python-387/)
   * Seguir link para instalar
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
